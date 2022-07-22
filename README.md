@@ -18,4 +18,4 @@ prm-no-search-result > md-card {
     display:none;
 }
 ```
-
+If you ONLY want to add link(s) to the pre-existing text, you can do so by removing the search suggestion section from the js. Your additions will display below the OTB tile.
