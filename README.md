@@ -8,7 +8,7 @@ The OTB page in the Primo NUI for a no results search looks like this:
 The custom js in this package allows you to adjust the text and other links you provide when a user isn't successful in their search.  The js has been altered using the Ex Libris tool for bringing custom js into compliance with Angular 1.8, as linked from the [upgrade announcement](https://knowledge.exlibrisgroup.com/Primo/Product_Materials/Announcements/Preparing_for_the_Upgrade_to_Angular_1.8_in_Primo%2F%2FPrimo_VE).
 
 Here's how this version looks: 
-![NoRecordsCustom-test](https://user-images.githubusercontent.com/75031778/180480643-d8ca825c-c21b-46e0-a41f-756cf2ae4403.png)
+![NoRecordsCustom-test](NoRecordsCustom-test.png)
 
 
 If you use the HTML as given in the Angular component, you'll probably want to suppress the OTB tile in the CSS:
