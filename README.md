@@ -11,7 +11,7 @@ Here's how this version looks:
 ![NoRecordsCustom-test](NoRecordsCustom-test.png)
 
 
-If you use the HTML as given in the Angular component, you'll probably want to suppress the OTB tile in the CSS:
+If you use the HTML as given in the Angular component, you'll want to suppress the OTB tile in the CSS:
 
 ```css
 prm-no-search-result > md-card {
